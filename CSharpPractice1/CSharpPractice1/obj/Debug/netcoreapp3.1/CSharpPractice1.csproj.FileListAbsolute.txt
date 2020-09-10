@@ -1,0 +1,13 @@
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\bin\Debug\netcoreapp3.1\CSharpPractice1.exe
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\bin\Debug\netcoreapp3.1\CSharpPractice1.deps.json
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\bin\Debug\netcoreapp3.1\CSharpPractice1.runtimeconfig.json
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\bin\Debug\netcoreapp3.1\CSharpPractice1.runtimeconfig.dev.json
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\bin\Debug\netcoreapp3.1\CSharpPractice1.dll
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\bin\Debug\netcoreapp3.1\CSharpPractice1.pdb
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\obj\Debug\netcoreapp3.1\CSharpPractice1.AssemblyInfoInputs.cache
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\obj\Debug\netcoreapp3.1\CSharpPractice1.AssemblyInfo.cs
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\obj\Debug\netcoreapp3.1\CSharpPractice1.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\obj\Debug\netcoreapp3.1\CSharpPractice1.dll
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\obj\Debug\netcoreapp3.1\CSharpPractice1.pdb
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\obj\Debug\netcoreapp3.1\CSharpPractice1.genruntimeconfig.cache
+D:\Programming\Courses\Virtual-Reality\CSharpPractice1\CSharpPractice1\obj\Debug\netcoreapp3.1\CSharpPractice1.csprojAssemblyReference.cache

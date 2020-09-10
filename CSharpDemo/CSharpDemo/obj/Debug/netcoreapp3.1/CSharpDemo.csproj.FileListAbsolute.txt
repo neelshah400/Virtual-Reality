@@ -1,0 +1,13 @@
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.exe
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.deps.json
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.runtimeconfig.json
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.runtimeconfig.dev.json
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.dll
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.pdb
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.csprojAssemblyReference.cache
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.AssemblyInfoInputs.cache
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.AssemblyInfo.cs
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.dll
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.pdb
+D:\Programming\Courses\Virtual-Reality\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.genruntimeconfig.cache
