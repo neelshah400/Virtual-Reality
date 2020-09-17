@@ -15,7 +15,7 @@ namespace WindowsFormsStopwatch
     {
 
         Stopwatch stopwatch;
-        Boolean displayInSeconds;
+        bool displayInSeconds;
 
         public Form1()
         {
