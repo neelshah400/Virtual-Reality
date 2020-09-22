@@ -1,0 +1,13 @@
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\bin\Debug\netcoreapp3.1\CSharpQuiz.exe
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\bin\Debug\netcoreapp3.1\CSharpQuiz.deps.json
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\bin\Debug\netcoreapp3.1\CSharpQuiz.runtimeconfig.json
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\bin\Debug\netcoreapp3.1\CSharpQuiz.runtimeconfig.dev.json
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\bin\Debug\netcoreapp3.1\CSharpQuiz.dll
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\bin\Debug\netcoreapp3.1\CSharpQuiz.pdb
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\obj\Debug\netcoreapp3.1\CSharpQuiz.csprojAssemblyReference.cache
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\obj\Debug\netcoreapp3.1\CSharpQuiz.AssemblyInfoInputs.cache
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\obj\Debug\netcoreapp3.1\CSharpQuiz.AssemblyInfo.cs
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\obj\Debug\netcoreapp3.1\CSharpQuiz.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\obj\Debug\netcoreapp3.1\CSharpQuiz.dll
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\obj\Debug\netcoreapp3.1\CSharpQuiz.pdb
+D:\Programming\Courses\Virtual-Reality\CSharpQuiz\CSharpQuiz\obj\Debug\netcoreapp3.1\CSharpQuiz.genruntimeconfig.cache

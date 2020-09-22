@@ -1,0 +1,10 @@
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\bin\Debug\WindowsFormsQuiz.exe.config
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\bin\Debug\WindowsFormsQuiz.exe
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\bin\Debug\WindowsFormsQuiz.pdb
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\obj\Debug\WindowsFormsQuiz.csprojAssemblyReference.cache
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\obj\Debug\WindowsFormsQuiz.Form1.resources
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\obj\Debug\WindowsFormsQuiz.Properties.Resources.resources
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\obj\Debug\WindowsFormsQuiz.csproj.GenerateResource.cache
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\obj\Debug\WindowsFormsQuiz.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\obj\Debug\WindowsFormsQuiz.exe
+D:\Programming\Courses\Virtual-Reality\WindowsFormsQuiz\WindowsFormsQuiz\obj\Debug\WindowsFormsQuiz.pdb
