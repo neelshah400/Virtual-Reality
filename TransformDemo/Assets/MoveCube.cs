@@ -21,7 +21,10 @@ public class MoveCube : MonoBehaviour
         timer += Time.deltaTime;
         Debug.Log("Time passed: " + timer);
 
-        transform.Translate(Vector3.forward);
+        // transform.Translate(0.1f * Vector3.forward);
+        // transform.Translate(Vector3.forward * Time.deltaTime, Space.World);
+        if (Input.GetKey(KeyCode.Space))
+            transform.Translate(Vector3.forward * Time.deltaTime, Space.World);
         Debug.Log("z: " + transform.position.z);
 
     }
