@@ -7,6 +7,7 @@ public class Move : MonoBehaviour
 
     Rigidbody rb;
     bool needsToJump;
+    int numJumps = 0;
     
     // Start is called before the first frame update
     void Start()
@@ -23,10 +24,11 @@ public class Move : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (needsToJump)
+        if (numJumps == 0 && needsToJump)
         {
             rb.AddForce(Vector3.up * 300.0f);
             needsToJump = false;
+            numJumps++;
         }
     }
 
