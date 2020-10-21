@@ -26,7 +26,7 @@ public class Move : MonoBehaviour
     {
         if (numJumps == 0 && needsToJump)
         {
-            rb.AddForce(Vector3.up * 300.0f);
+            rb.AddForce(Vector3.up * 20.0f, ForceMode.Impulse);
             needsToJump = false;
             numJumps++;
         }
