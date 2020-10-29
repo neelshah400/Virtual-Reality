@@ -7,8 +7,6 @@ using UnityEngine.UI;
 public class UIController : MonoBehaviour
 {
 
-    public Button buttonClockwise;
-    public Button buttonCounterclockwise;
     public Text textRotation;
     public Transform cube;
     
