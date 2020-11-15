@@ -13,7 +13,7 @@ public class PrefabController : MonoBehaviour
     {
         gameController = GameObject.Find("GameController").GetComponent<GameController>();
         rb = GetComponent<Rigidbody>();
-        rb.AddForce(Vector3.down * 10.0f, ForceMode.Impulse);
+        rb.AddForce(Vector3.down * 7.0f, ForceMode.Impulse);
     }
 
     // Update is called once per frame
@@ -24,8 +24,11 @@ public class PrefabController : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        gameController.IncreaseScore();
-        Destroy(gameObject);
+        if (collision.gameObject.name == "Catcher")
+        {
+            gameController.IncreaseScore();
+            Destroy(gameObject);
+        }
     }
 
     private void OnBecameInvisible()
