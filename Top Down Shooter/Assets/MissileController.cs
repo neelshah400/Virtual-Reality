@@ -2,23 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ShipController2 : MonoBehaviour
+public class MissileController : MonoBehaviour
 {
 
-    float rPower;
-
+    Rigidbody rb;
+    
     // Start is called before the first frame update
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody>();
+        rb.AddForce(Vector3.forward * 20.0f, ForceMode.Impulse);
     }
 
     // Update is called once per frame
     void Update()
     {
-        rPower = Input.GetAxis("Horizontal") * Time.deltaTime * 100.0f;
-        transform.Rotate(0, 0, -1.0f * rPower, Space.Self);
-        Debug.Log(rPower);
+        
     }
 
 }
