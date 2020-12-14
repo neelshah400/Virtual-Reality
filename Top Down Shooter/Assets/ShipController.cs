@@ -12,8 +12,9 @@ public class ShipController : MonoBehaviour
     Quaternion rot, sRot, lRot, rRot;
 
     public GameObject missile;
+    Vector3 lMissilePos, rMissilePos;
 
-    Vector3 lMisslePos, rMissilePos;
+    public GameObject enemy;
     
     // Start is called before the first frame update
     void Start()
@@ -25,8 +26,10 @@ public class ShipController : MonoBehaviour
         lRot = Quaternion.Euler(sRot.eulerAngles.x, sRot.eulerAngles.y, sRot.eulerAngles.z + 45.0f);
         rRot = Quaternion.Euler(sRot.eulerAngles.x, sRot.eulerAngles.y, sRot.eulerAngles.z - 45.0f);
 
-        lMisslePos = new Vector3(-3.5f, 0.0f, -10.0f);
-        rMissilePos = new Vector3();
+        lMissilePos = new Vector3(-3.1f, -5.0f, 0.0f);
+        rMissilePos = new Vector3(3.1f, -5.0f, 0.0f);
+
+        InvokeRepeating("SpawnEnemy", 2.0f, 5.0f);
 
     }
 
@@ -51,10 +54,18 @@ public class ShipController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Debug.Log("Shoot missile");
-            Instantiate(missile, lMisslePos, Quaternion.identity);
+            int rand = Random.Range(0, 2);
+            Vector3 pos = transform.position + (rand == 0 ? lMissilePos : rMissilePos);
+            Instantiate(missile, pos, Quaternion.identity);
         }
 
+    }
+
+    void SpawnEnemy()
+    {
+        float x = Random.Range(-40.0f, 40.0f);
+        Vector3 enemyPos = new Vector3(x, -5.0f, 30.0f);
+        Instantiate(enemy, enemyPos, Quaternion.identity);
     }
 
 }
