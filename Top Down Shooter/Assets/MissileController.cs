@@ -26,4 +26,9 @@ public class MissileController : MonoBehaviour
         rb.AddForce(Vector3.forward * 35.0f, ForceMode.Impulse);
     }
 
+    private void OnBecameInvisible()
+    {
+        Destroy(gameObject);
+    }
+
 }

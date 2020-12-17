@@ -29,7 +29,7 @@ public class ShipController : MonoBehaviour
         lMissilePos = new Vector3(-3.1f, -5.0f, 0.0f);
         rMissilePos = new Vector3(3.1f, -5.0f, 0.0f);
 
-        InvokeRepeating("SpawnEnemy", 2.0f, 5.0f);
+        InvokeRepeating("SpawnEnemies", 2.0f, 8.0f);
 
     }
 
@@ -59,6 +59,12 @@ public class ShipController : MonoBehaviour
             Instantiate(missile, pos, Quaternion.identity);
         }
 
+    }
+
+    void SpawnEnemies()
+    {
+        for (float time = 0.2f; time <= 1.0f; time += 0.2f)
+            Invoke("SpawnEnemy", time);
     }
 
     void SpawnEnemy()
