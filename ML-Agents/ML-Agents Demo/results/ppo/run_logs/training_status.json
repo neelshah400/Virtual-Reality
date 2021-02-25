@@ -2,17 +2,23 @@
     "Movement Behavior": {
         "checkpoints": [
             {
-                "steps": 3840,
-                "file_path": "results\\ppo\\Movement Behavior\\Movement Behavior-3840.onnx",
-                "reward": null,
-                "creation_time": 1612453935.4857621
+                "steps": 216931,
+                "file_path": "results\\ppo\\Movement Behavior\\Movement Behavior-216931.onnx",
+                "reward": 0.8349009805008188,
+                "creation_time": 1613748522.2372305
+            },
+            {
+                "steps": 319320,
+                "file_path": "results\\ppo\\Movement Behavior\\Movement Behavior-319320.onnx",
+                "reward": 0.9629024943394691,
+                "creation_time": 1613748662.7293916
             }
         ],
         "final_checkpoint": {
-            "steps": 3840,
+            "steps": 319320,
             "file_path": "results\\ppo\\Movement Behavior.onnx",
-            "reward": null,
-            "creation_time": 1612453935.4857621
+            "reward": 0.9629024943394691,
+            "creation_time": 1613748662.7293916
         }
     },
     "metadata": {
