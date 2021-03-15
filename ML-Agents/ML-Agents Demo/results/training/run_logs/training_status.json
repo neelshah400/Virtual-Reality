@@ -1,0 +1,48 @@
+{
+    "Movement Behavior": {
+        "checkpoints": [
+            {
+                "steps": 795181,
+                "file_path": "results\\training\\Movement Behavior\\Movement Behavior-795181.onnx",
+                "reward": 0.9565810878410657,
+                "creation_time": 1614785833.703949
+            },
+            {
+                "steps": 945621,
+                "file_path": "results\\training\\Movement Behavior\\Movement Behavior-945621.onnx",
+                "reward": 0.9420451468063725,
+                "creation_time": 1614785916.952373
+            },
+            {
+                "steps": 999989,
+                "file_path": "results\\training\\Movement Behavior\\Movement Behavior-999989.onnx",
+                "reward": 0.9352500048967508,
+                "creation_time": 1614785977.3726342
+            },
+            {
+                "steps": 1061557,
+                "file_path": "results\\training\\Movement Behavior\\Movement Behavior-1061557.onnx",
+                "reward": 0.9333250060677528,
+                "creation_time": 1614785997.7981966
+            },
+            {
+                "steps": 1392276,
+                "file_path": "results\\training\\Movement Behavior\\Movement Behavior-1392276.onnx",
+                "reward": 0.9404210605119404,
+                "creation_time": 1614786167.0087516
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1392276,
+            "file_path": "results\\training\\Movement Behavior.onnx",
+            "reward": 0.9404210605119404,
+            "creation_time": 1614786167.0087516
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

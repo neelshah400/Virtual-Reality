@@ -10,9 +10,12 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        for (int i = 0; i < 100; i++)
+        for (float x = 0.0f; x <= 600.0f; x += 60.0f)
         {
-            Instantiate(prefab, new Vector3(0.0f, i * 1.5f, 0.0f), Quaternion.identity);
+            for (float z = 0.0f; z <= 600.0f; z += 60.0f)
+            {
+                Instantiate(prefab, new Vector3(x, 0, z), Quaternion.identity);
+            }
         }
     }
 

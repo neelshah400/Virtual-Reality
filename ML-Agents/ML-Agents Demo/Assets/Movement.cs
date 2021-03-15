@@ -12,17 +12,14 @@ public class Movement : Agent
 
     public override void OnEpisodeBegin()
     {
-
         count = 1000;
-
         Transform[] items = new Transform[] { transform, food };
         foreach (Transform item in items)
         {
-            item.localPosition = GetRandomVector(6.0f);
+            item.localPosition = GetRandomVector(10.0f);
             item.GetComponent<Rigidbody>().freezeRotation = true;
             item.GetComponent<Rigidbody>().velocity = Vector3.zero;
         }
-
     }
 
     public Vector3 GetRandomVector(float d)
