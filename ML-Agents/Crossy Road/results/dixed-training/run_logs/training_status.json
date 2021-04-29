@@ -1,0 +1,42 @@
+{
+    "ChickenMovement": {
+        "checkpoints": [
+            {
+                "steps": 499978,
+                "file_path": "results\\dixed-training\\ChickenMovement\\ChickenMovement-499978.onnx",
+                "reward": 981380.4146341464,
+                "creation_time": 1616707202.1647217
+            },
+            {
+                "steps": 802841,
+                "file_path": "results\\dixed-training\\ChickenMovement\\ChickenMovement-802841.onnx",
+                "reward": 107418.94871794872,
+                "creation_time": 1616707427.4179292
+            },
+            {
+                "steps": 999976,
+                "file_path": "results\\dixed-training\\ChickenMovement\\ChickenMovement-999976.onnx",
+                "reward": 149288.14285714287,
+                "creation_time": 1616707656.0445547
+            },
+            {
+                "steps": 1245405,
+                "file_path": "results\\dixed-training\\ChickenMovement\\ChickenMovement-1245405.onnx",
+                "reward": 160761.69672131148,
+                "creation_time": 1616707824.3439898
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1245405,
+            "file_path": "results\\dixed-training\\ChickenMovement.onnx",
+            "reward": 160761.69672131148,
+            "creation_time": 1616707824.3439898
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

@@ -20,7 +20,9 @@ public class CarController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        float z = transform.localPosition.z;
+        if (z < -22.0f || z > 22.0f)
+            Destroy(gameObject);
     }
 
 }

@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Car
   - Chicken
+  - Tree
+  - Goal
+  - Coin
   layers:
   - Default
   - TransparentFX

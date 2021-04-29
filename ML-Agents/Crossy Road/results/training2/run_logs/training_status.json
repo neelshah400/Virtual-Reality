@@ -1,0 +1,48 @@
+{
+    "ChickenMovement": {
+        "checkpoints": [
+            {
+                "steps": 1499945,
+                "file_path": "results\\training2\\ChickenMovement\\ChickenMovement-1499945.onnx",
+                "reward": 12.120283680117648,
+                "creation_time": 1616509738.2436538
+            },
+            {
+                "steps": 1999994,
+                "file_path": "results\\training2\\ChickenMovement\\ChickenMovement-1999994.onnx",
+                "reward": 13.625734486579894,
+                "creation_time": 1616510116.32614
+            },
+            {
+                "steps": 2499968,
+                "file_path": "results\\training2\\ChickenMovement\\ChickenMovement-2499968.onnx",
+                "reward": 13.72580655010379,
+                "creation_time": 1616510510.1106024
+            },
+            {
+                "steps": 2999997,
+                "file_path": "results\\training2\\ChickenMovement\\ChickenMovement-2999997.onnx",
+                "reward": 14.014749815969756,
+                "creation_time": 1616510896.82336
+            },
+            {
+                "steps": 3132996,
+                "file_path": "results\\training2\\ChickenMovement\\ChickenMovement-3132996.onnx",
+                "reward": 12.969904328385988,
+                "creation_time": 1616510993.1620562
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3132996,
+            "file_path": "results\\training2\\ChickenMovement.onnx",
+            "reward": 12.969904328385988,
+            "creation_time": 1616510993.1620562
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}
